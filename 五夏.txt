@@ -98,15 +98,14 @@ black Flash：黑闪
 residuals：残秽
 star Plasma Vessel：星浆体
 culling Game：死灭回游
-incarnation：受肉
 shikigami：式神
 cursed Object：咒物
 cursed Tool：咒具
 cursed Corpse：咒骸
 cursed Restriction / Binding Vow：咒缚
 heavenly Restriction：天与咒缚
-barrier / Curtain：结界 / 帷幕
-binding Vow：契约 / 束缚
+barrier / Curtain：结界
+binding Vow：束缚
 Domain Expansion：领域展开
 limitless：无下限术式
 Lapse: Blue：术式顺转·苍
