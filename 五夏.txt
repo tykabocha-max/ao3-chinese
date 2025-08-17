@@ -7,9 +7,178 @@
 // 人名
 Geto Suguru：夏油杰
 Gojo Satoru：五条悟
+Suguru Geto：夏油杰
+Satoru Gojo：五条悟
 Geto：夏油
 Gojo：五条
 Suguru：杰
 Satoru：悟
 suguru：杰
 satoru：悟
+Yuji Itadori：虎杖悠仁
+Megumi Fushiguro：伏黑惠
+Nobara Kugisaki：钉崎野蔷薇
+Yuta Okkotsu：乙骨悠太
+Maki Zen'in：禅院真希
+Toge Inumaki：狗卷棘
+Panda：熊猫
+Aoi Todo：东堂葵
+Kento Nanami：七海建人
+Kiyotaka Ijichi：伊地知潔高
+Masamichi Yaga：夜蛾正道
+Shoko Ieiri：家入硝子
+Noritoshi Kamo：加茂宪纪
+Momo Nishimiya：西宫桃
+Mai Zenin：禅院真依
+Kasumi Miwa：三轮霞
+Kokichi Muta：机械丸
+Utahime Iori：庵歌姫
+Ryomen Sukuna：两面宿儺
+Mahito：真人
+Jogo：漏瑚
+Hanami：花御
+Dagon：陀艮
+Kenjaku：羂索
+げとう すぐる：夏油杰
+ごじょう さとる：五条悟
+すぐる げとう：夏油杰
+さとる ごじょう：五条悟
+げとう：夏油
+ごじょう：五条
+すぐる：杰
+さとる：悟
+すぐる：杰
+さとる：悟
+いたどり ゆうじ：虎杖悠仁
+ふしぐろ めぐみ：伏黑惠
+くぎさき のばら：钉崎野蔷薇
+おっこつ ゆうた：乙骨悠太
+ぜんいん まき：禅院真希
+いぬまき とげ：狗卷棘
+パンダ：熊猫
+とうどう あおい：东堂葵
+ななみ けんと：七海建人
+いじち きよたか：伊地知潔高
+やが まさみち：夜蛾正道
+いえいり しょうこ：家入硝子
+かも のりとし：加茂宪纪
+にしみや もも：西宫桃
+ぜんいん まい：禅院真依
+みわ かすみ：三轮霞
+むた こうきち：机械丸
+いおり うたひめ：庵歌姫
+りょうめん すくな：两面宿儺
+まひと：真人
+じょうご：漏瑚
+はなみ：花御
+だごん：陀艮
+けんじゃく：羂索
+
+通用词条
+
+// 专有名词
+Jujutsu Kaisen：咒术回战
+Jujutsu：咒术
+Jujutsu High：咒术高专
+Cursed Energy：咒力
+Jujutsu Sorcerer：咒术师
+Cursed Sorcerer：诅咒师
+Cursed Object：咒物
+Cursed Spirit：咒灵
+Cursed Womb：咒胎
+Cursed Technique：术式
+Innate Technique：先天术式
+Inherited Technique：相传术式
+Barrier Technique：结界术式
+Reverse Cursed Technique：反转术式
+Domain Expansion：领域展开
+Simple Domain：简易领域
+Black Flash：黑闪
+Residuals：残秽
+Star Plasma Vessel：星浆体
+Culling Game：死灭回游
+Incarnation：受肉
+Shikigami：式神
+Cursed Object：咒物
+Cursed Tool：咒具
+Cursed Corpse：咒骸
+Cursed Restriction / Binding Vow：咒缚
+Heavenly Restriction：天与咒缚
+Barrier / Curtain：结界 / 帷幕
+Binding Vow：契约 / 束缚
+Domain Expansion：领域展开
+Limitless：无下限术式
+Lapse: Blue：术式顺转·苍
+Reversal: Red：术式反转·赫
+Hollow Purple：虚式·茈
+Ten Shadows Technique：十种影法术
+Blood Manipulation：赤血操术
+Projection Sorcery：投射咒法
+Idle Transfiguration：无为转变
+Malevolent Shrine：伏魔御厨子
+Coffin of the Iron Mountain：盖棺铁围山
+Horizon of the Captivating Skandha：荡蕴平线
+Self-Embodiment of Perfection：自闭圆顿裹
+Chimera Shadow Garden：嵌合暗翳庭
+Graveyard Domain：墓地领域
+Deadly Sentencing：诛伏赐死
+Idle Death Gamble：坐杀博徒
+Time Cell Moon Palace：时胞月宫殿
+Womb Profusion：胎藏遍野
+Threefold Affliction：三重疾苦
+Authentic Mutual Love：真赝相爱
+Tokyo Jujutsu High：东京都立咒术高等专门学校
+Kyoto Jujutsu High：京都府立咒术高等专门学校
+The Three Great Families：御三家
+Zenin Clan：禅院家
+Kamo Clan：加茂家
+Gojo Clan：五条家
+Star Religious Group：盘星教
+Kusatsu：苦夏
+Bitter Summer：苦夏
+じゅじゅつ かいせん：咒术回战
+じゅじゅつ：咒术
+じゅじゅつ こうせん：咒术高专
+じゅりょく：咒力
+じゅじゅつし：咒术师
+じゅそし：诅咒师
+じゅたい くそうず：咒胎九相图
+じゅぶつ：咒物
+じゅれい：咒灵
+じゅつしき：术式
+せんてん じゅつしき：先天术式
+そうでん じゅつしき：相传术式
+けっかい じゅつしき：结界术式
+はんてん じゅつしき：反转术式
+りょういき てんかい：领域展开
+かんい りょういき：简易领域
+こくせん：黑闪
+しきがみ：式神
+じゅぶつ：咒物
+じゅぐ：咒具
+じゅかい：咒骸
+じゅばく：咒缚
+てんよ じゅばく：天与咒缚
+けっかい / とばり：结界 / 帷幕
+しばり：契约 / 束缚
+りょういき てんかい：领域展开
+むかげん じゅじゅつ：无下限术式
+じゅつしき じゅんてん あお：术式顺转·苍
+じゅつしき はんてん あか：术式反转·赫
+きょしき むらさき：虚式·茈
+とくさのかげぼうじゅつ：十种影法术
+せっけつ そうじゅつ：赤血操术
+とうしゃ じゅほう：投射咒法
+むいてんぺん：无为转变
+ふくま みずし：伏魔御厨子
+てっかん ていいさん：盖棺铁围山
+だうん へいせん：荡蕴平线
+じへい えんどんか：自闭圆顿裹
+けんごう あんえいてい：嵌合暗翳庭
+ぼち りょういき：墓地领域
+ちゅうふく しし：诛伏赐死
+ざっさつ はくと：坐杀博徒
+じほう げっきゅうでん：时胞月宫殿
+たいぞう へんや：胎藏遍野
+さんじゅう じっく：三重疾苦
+しんがん あい：真赝相爱
