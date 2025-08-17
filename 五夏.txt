@@ -77,37 +77,37 @@ Kenjaku：羂索
 通用词条
 
 // 专有名词
-Jujutsu Kaisen：咒术回战
-Jujutsu：咒术
-Jujutsu High：咒术高专
-Cursed Energy：咒力
-Jujutsu Sorcerer：咒术师
-Cursed Sorcerer：诅咒师
-Cursed Object：咒物
-Cursed Spirit：咒灵
-Cursed Womb：咒胎
-Cursed Technique：术式
-Innate Technique：先天术式
-Inherited Technique：相传术式
-Barrier Technique：结界术式
-Reverse Cursed Technique：反转术式
+jujutsu Kaisen：咒术回战
+jujutsu：咒术
+jujutsu High：咒术高专
+cursed Energy：咒力
+jujutsu Sorcerer：咒术师
+cursed Sorcerer：诅咒师
+cursed Object：咒物
+cursed Spirit：咒灵
+cursed Womb：咒胎
+cursed Technique：术式
+innate Technique：先天术式
+inherited Technique：相传术式
+barrier Technique：结界术式
+reverse Cursed Technique：反转术式
+domain Expansion：领域展开
+simple Domain：简易领域
+black Flash：黑闪
+residuals：残秽
+star Plasma Vessel：星浆体
+culling Game：死灭回游
+incarnation：受肉
+shikigami：式神
+cursed Object：咒物
+cursed Tool：咒具
+cursed Corpse：咒骸
+cursed Restriction / Binding Vow：咒缚
+heavenly Restriction：天与咒缚
+barrier / Curtain：结界 / 帷幕
+binding Vow：契约 / 束缚
 Domain Expansion：领域展开
-Simple Domain：简易领域
-Black Flash：黑闪
-Residuals：残秽
-Star Plasma Vessel：星浆体
-Culling Game：死灭回游
-Incarnation：受肉
-Shikigami：式神
-Cursed Object：咒物
-Cursed Tool：咒具
-Cursed Corpse：咒骸
-Cursed Restriction / Binding Vow：咒缚
-Heavenly Restriction：天与咒缚
-Barrier / Curtain：结界 / 帷幕
-Binding Vow：契约 / 束缚
-Domain Expansion：领域展开
-Limitless：无下限术式
+limitless：无下限术式
 Lapse: Blue：术式顺转·苍
 Reversal: Red：术式反转·赫
 Hollow Purple：虚式·茈
@@ -134,8 +134,8 @@ Zenin Clan：禅院家
 Kamo Clan：加茂家
 Gojo Clan：五条家
 Star Religious Group：盘星教
-Kusatsu：苦夏
-Bitter Summer：苦夏
+kusatsu：苦夏
+bitter Summer：苦夏
 じゅじゅつ かいせん：咒术回战
 じゅじゅつ：咒术
 じゅじゅつ こうせん：咒术高专
